@@ -1,0 +1,2 @@
+# Coffee-sales-analysis
+this project about a data analysis for coffee sales data so I used all my data analysis skills to get a as much valuable insights as possible and I ended up with a clear dashboard describes the Sales among countries and a solution to decrease customer acquisition cost.I used Xlookup and index,match combination to retrieve data from multiple sources to achieve the desired results.
